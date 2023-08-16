@@ -1,0 +1,27 @@
+.testimonials {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.testimonial {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  text-align: center;
+  background-color: #deb611;
+}
+
+.review {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 16px;
+  color: #495e57;
+  font-weight: bold;
+}

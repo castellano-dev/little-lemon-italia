@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #deb611;
+  color: black;
+  padding: 10px 20px;
+}
+
+.navbar-logo img {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.navbar-links a {
+  color: black;
+  font-weight: bold;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.navbar-links a:last-child {
+  margin-right: 0;
+}
